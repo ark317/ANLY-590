@@ -1,0 +1,15 @@
+Armaan Khullar
+10/10/18
+ANLY 590 - HW 1
+
+This folder contains the code and answers to HW 1. 
+
+1) The Anly590_hw1.ipynb is a Jupyter Notebook that pertains to all 3 questions to HW 1. In particular, it
+gives a detailed rundown of the code and visualizations.
+
+2) The NeuralNetwork.jpg is a picture of the neural network belonging to question 1. It also includes the mathematical equation for the network.
+
+3) The Rosenbrock_Partial_Derivatives_Work.jpg is a picture for Question 2.1. It shows the detailed mathematical work of how I arrived at the partial derivatives of f with respect to x and y. 
+
+4) The WorkBackProp.jpg is a picture for Question 3.1. It shows shows the detailed mathematical work of how I arrived at the expressions of the gradient of the Loss function with respect to each of the model parameters. 
+
