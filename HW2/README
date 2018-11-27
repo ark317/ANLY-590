@@ -4,8 +4,8 @@ ANLY 590 - HW 2
 
 This folder contains the code and answers to HW 2. 
 
-1) The HW2_Q1.ipynb is a Jupyter Notebook that contains my solution to the first question. In particular, it gives a detailed rundown of the code and visualizations.
+1) The HW2_Q1.ipynb is a Jupyter Notebook that contains my solution to the first question, which deals with building an convolutional autoencoder. In particular, it gives a detailed rundown of the code and visualizations.
 
-2) The HW2_Q2.ipynb is a Jupyter Notebook that contains my solutions to the second question. In particular, it gives a detailed rundown of the code and the visualizations for 2.1 and 2.2.
+2) The HW2_Q2.ipynb is a Jupyter Notebook that contains my solutions to the second question, which deals with image classification. In particular, it gives a detailed rundown of the code and the visualizations for 2.1 and 2.2.
 
-3) The HW2_Q3.ipynb is a Jupyter Notebook that contains my solutions to the third question. In particular, it gives a detailed rundown of the code and the visualizations for 3.1, 3.2, and 3.3. 
+3) The HW2_Q3.ipynb is a Jupyter Notebook that contains my solutions to the third question, which deals with text classification. In particular, it gives a detailed rundown of the code and the visualizations for 3.1, 3.2, and 3.3. 
